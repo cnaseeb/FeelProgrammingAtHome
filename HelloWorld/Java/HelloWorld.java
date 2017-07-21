@@ -1,4 +1,4 @@
-##############################################################################
+/*#############################################################################
 #
 # Copyright 2017 Chan Naseeb (unless otherwise stated)
 #
@@ -14,7 +14,7 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #
-##############################################################################
+##############################################################################*/
 public class HelloWorld{
   public static void main(String[] args){
     // Prints "Hello, World" to the console
