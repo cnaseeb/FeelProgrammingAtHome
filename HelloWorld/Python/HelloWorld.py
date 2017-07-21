@@ -15,7 +15,8 @@
 #   limitations under the License.
 #
 ##############################################################################
-
+#Add this line to run it as a script from command line
+#! /usr/bin/python
 print('Hello, World')
 
 
